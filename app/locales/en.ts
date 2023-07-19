@@ -205,7 +205,7 @@ const en: LocaleType = {
     Token: {
       Title: "API Key",
       SubTitle: "Use your key to ignore access code limit",
-      Placeholder: "OpenAI API Key",
+      Placeholder: "JY-API Key",
     },
     Usage: {
       Title: "Account Balance",
