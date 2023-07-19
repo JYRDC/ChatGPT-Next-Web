@@ -4,7 +4,7 @@ const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
     Unauthorized:
-      "本项目由JY-API提供平价中转服务 在[设置](/#/settings)页填入你自己的 JY-API Key",
+      "本项目由[JY-API](https://api.jingyan.live/)提供平价中转服务 在[设置](/#/settings)页填入你自己的 JY-API Key",
   },
   Auth: {
     Title: "需要密码",
