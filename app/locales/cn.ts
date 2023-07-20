@@ -201,7 +201,7 @@ const cn = {
     },
     Token: {
       Title: "JY-API Key",
-      SubTitle: "使用自己的 JY-API Key，购买地址htts://api.jingyan.live ",
+      SubTitle: "使用自己的 JY-API Key，低价购买地址https://api.jingyan.live ",
       Placeholder: "JY-API Key",
     },
 
