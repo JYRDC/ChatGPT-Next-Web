@@ -121,11 +121,7 @@ export function SideBar(props: { className?: string }) {
           ChatGPT Next
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          本项目由
-          <a href="https://api.jingyan.live" style="text-decoration: none;">
-            JY-API
-          </a>
-          提供中转服务
+          本项目由 JY-API[https://api.jingyan.live]提供中转服务
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
